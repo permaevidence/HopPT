@@ -1,0 +1,36 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+
+# Swift Package Manager (command-line)
+.build/
+.swiftpm/
+
+# Archives & builds
+*.xcarchive
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
+*.swp
+*~
+.Trashes
+
+# Planning (local only)
+.planning/
+
+# Claude Code (local only)
+.claude/
+CLAUDE.md
